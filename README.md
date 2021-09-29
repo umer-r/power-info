@@ -35,12 +35,12 @@ To get the status of Bitlocker you need to run the script with administrator pri
 | Last BIOS install     | 9/20/2014
 | Manufacturer Brand    | Hewlett-Packard
 | Computer Model        | HP ProBook 450 G2
-| BIOS SerialNumber     | CND4486PRP
+| BIOS SerialNumber     | ***********
 | Operating System      | Microsoft Windows 10 Pro|C:\Windows|\Device\Harddisk0\Partition3
 | Total RAM Installed   | 8080MB
 | RAM Speed (MHz)       | 1600   
 | Processor Model       | Intel(R) Core(TM) i3-4030U CPU @ 1.90GHz
-| Primary Disk Drive    | SanDisk SD6SB1M128G1022I
+| Primary Disk Drive    | SanDisk SD6
 | Disk Total Space      | 127389368320
 | Disk Available Space  | 74789335040
 | Network Interface     | Wi-Fi VirtualBox Host-Only Network
