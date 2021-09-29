@@ -17,14 +17,14 @@ And Much more (See sample output)
 
 # Installation
 ```
-- Download and Extract the zip file.
-OR
-- 
+- Download and Extract the zip file on Windows machine.
 ```
+### Dont Forget to Give Stars and a Follow :)
 
 # Usage
-### Run The script by right-clicking on windows machine and choosing "Run with powershell"
-### Output
+### Run The script by right-clicking on windows machine and choosing "Run with powershell".
+### To Get the status of Bitlocker you need to run the script with administrator privileges.
+## Output
 ```
 +-----------------------+
 | Credits @UmerMehmood_ |
