@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/83476929/126708973-1db7e73d-b79a-4b78-9743-d0cdbe11ed5a.png)
+![](https://user-images.githubusercontent.com/83476929/135243496-33de7356-ec9f-4a1d-808f-8023b7aff40a.png)
 <br />
 ## POWER-INFO
 ***PowerShell Script for System-Administrators to Get Windows System information vesion 1.0***
