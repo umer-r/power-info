@@ -23,7 +23,7 @@ And Much more (See sample output)
 
 # Usage
 **Run The script by right-clicking on windows machine and choosing "Run with powershell".
-To Get the status of Bitlocker you need to run the script with administrator privileges.**
+To get the status of Bitlocker you need to run the script with administrator privileges.**
 ## Output
 ```
 +-----------------------+
