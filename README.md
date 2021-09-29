@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/83476929/135243496-33de7356-ec9f-4a1d-808f-8023b7aff40a.png)
 <br />
 ## POWER-INFO
-***PowerShell Script for System-Administrators to Get Windows System information vesion 1.0***
+***Windows System Information By PowerShell Verion 1.0***
 
 # Description
 This neat powershell script gives system administrator a proper insight of the server/machine in a clean format.
@@ -19,11 +19,11 @@ And Much more (See sample output)
 ```
 - Download and Extract the zip file on Windows machine.
 ```
-### Dont Forget to Give Stars and a Follow :)
+**Dont Forget to Give Stars and a Follow :)**
 
 # Usage
-### Run The script by right-clicking on windows machine and choosing "Run with powershell".
-### To Get the status of Bitlocker you need to run the script with administrator privileges.
+**Run The script by right-clicking on windows machine and choosing "Run with powershell".
+To Get the status of Bitlocker you need to run the script with administrator privileges.**
 ## Output
 ```
 +-----------------------+
