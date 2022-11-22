@@ -1,5 +1,9 @@
 ![](https://user-images.githubusercontent.com/83476929/135243496-33de7356-ec9f-4a1d-808f-8023b7aff40a.png)
 <br />
+
+![GitHub](https://img.shields.io/github/license/umer-r/power-info) ![GitHub top language](https://img.shields.io/github/languages/top/umer-r/power-info) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/umer-r/power-info)
+
+
 ## POWER-INFO
 ***Windows System Information By PowerShell Verion 1.0***
 
@@ -51,7 +55,10 @@ To get the status of Bitlocker you need to run the script with administrator pri
 ```
 
 # Contact
-- Twitter : @UmerMehmood_
-- Email   : russs3400@gmail.com
-- Upwork  : https://www.upwork.com/o/profiles/users/~011184505ed9059668/
-- Fiverr  : https://www.fiverr.com/carbon_2019
+
+- [Gmail](mailto:russs3400@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/umer-mehmood-437120214/)
+- [Upwork](https://www.upwork.com/o/profiles/users/~011184505ed9059668/)
+- [Fiverr](https://www.fiverr.com/hamza_rajaz)
+
+Made with :heart: by [Umer](https://twitter.com/UmerMehmood_)
